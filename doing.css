@@ -1,0 +1,79 @@
+ body{
+     background-color: beige;
+ } 
+
+
+
+.navbar{
+    background: linear-gradient( to left , blue  , white 60%);
+    border: 1px solid blue;
+}
+.navbar ul li .dropdown-menu {
+    background: linear-gradient( to top , blue  , white 60%);
+    margin-top: 8px;
+    border: 1px solid white;
+    text-decoration: underline;
+    
+}
+.navbar ul li .dropdown-item{
+    color: rgb(78, 78, 74);
+    font-size:20px;
+    font-family: serif;
+ 
+}
+.navbar-brand{
+    color: rgb(0, 0, 225);
+    font-size: 30px;
+    font-family: serif;
+    text-decoration: underline;
+}
+.navbar ul li .nav-link{
+    color: white;
+    font-size: 20px;
+    font-family:serif;
+  
+}
+#about{
+    text-align: center;
+}
+#about h1{
+    background-color: rgb(6, 6, 128);
+    color:white;
+   
+    margin: 20px 0px;
+}
+#about h2{
+    
+    color: blue;
+}
+#about img{
+    border-radius: 15px;
+}
+#about2{
+    text-align: center;
+}
+#about2 h1{
+    
+    margin: 20px 0px 10px 0px;
+    color: rgb(6, 6, 128);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
